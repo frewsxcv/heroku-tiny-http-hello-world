@@ -2,3 +2,6 @@
 name = "heroku-tiny-http-hello-world"
 version = "0.1.0"
 authors = ["Corey Farwell <coreyf@rwell.org>"]
+
+[dependencies]
+tiny_http = "*"
